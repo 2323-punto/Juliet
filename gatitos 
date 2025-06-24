@@ -1,0 +1,10 @@
+class Gato:
+    color_ojos=""
+    color_pelaje=""
+
+Atigrado= gato()
+Atigrado.color_ojos="amarrillo"
+Atigrado.color_pelaje="cafe"
+
+print(f"los gatos antigradostienen ojos color /
+      {Atigrado.color_ojos}y pelaje {atigrado.color-pelaje}")
